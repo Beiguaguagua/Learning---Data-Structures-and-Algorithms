@@ -1,0 +1,4 @@
+﻿  LeetCode-202.cpp
+H:\WebFucTools\C++\数据结构与算法\LeetCode-202\LeetCode-202.cpp(19,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+H:\WebFucTools\C++\数据结构与算法\LeetCode-202\LeetCode-202.cpp(34,1): warning C4715: “isHappy”: 不是所有的控件路径都返回值
+  LeetCode-202.vcxproj -> H:\WebFucTools\C++\数据结构与算法\LeetCode-202\x64\Debug\LeetCode-202.exe
